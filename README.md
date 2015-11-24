@@ -4,5 +4,9 @@ Repositório didático da disciplina de **Projeto Integrado 1** - 2º Semestre d
 
 ### [Wiki](https://github.com/puccjogos/Proj1-2015-2S/wiki)
 
+Todo o conteúdo original deste repositório e sua wiki está sob a licença [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), a não ser quando marcado de outra forma. 
+
+[![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ---
 **Prof. Enric Llagostera** | [email](mailto:enricllagostera@gmail.com) | [facebook](http://www.facebook.com/enricllagostera)
